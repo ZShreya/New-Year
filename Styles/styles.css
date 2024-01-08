@@ -105,7 +105,8 @@ main {
 }
 
 .left {
-    margin-left: 156px;
+    align-items: center;
+    text-align: center;
     margin-top: 50px;
 }
 
