@@ -506,15 +506,16 @@ email {
 
 
 .foot {
-    width: 1600px;
+    width: auto;
     height: 609px;
     flex-shrink: 0;
     background: #070211;
-}
+    }
 
 .sec1 {
     margin: 120px;
     display: flex;
+    
    
 
 }
