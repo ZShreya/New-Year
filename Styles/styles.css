@@ -4,7 +4,12 @@ body {
 }
 
 main {
+<<<<<<< HEAD
     margin:0 auto;
+=======
+    margin: 0 auto;
+    margin-left: 100px;
+>>>>>>> bb3d7635e1a66db3c5cb10e8e065668564b8a9c1
     max-width: 1320px;
     overflow-x: hidden;
 
