@@ -4,7 +4,7 @@ body {
 }
 
 main {
-    margin:0 auto;
+    margin: auto;
     max-width: 1320px;
     overflow-x: hidden;
 
@@ -98,6 +98,7 @@ main {
     height: 600px;
     border-radius: 10px;
     margin-bottom: 100px;
+    background-repeat: no-repeat;
 }
 
 .right {
