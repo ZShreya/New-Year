@@ -507,10 +507,11 @@ email {
 }
 
 
-footer {
-   
+.foot {
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
     background: #070211;
-    margin: 0;
 }
 
 .sec1 {
