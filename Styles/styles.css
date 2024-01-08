@@ -504,12 +504,9 @@ email {
 
 }
 
-footer
-{
 
-}
 .foot {
-    width: 2200px;
+    width: 100%;
     height: 609px;
     flex-shrink: 0;
     background: #070211;
