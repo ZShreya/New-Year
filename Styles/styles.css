@@ -1,14 +1,10 @@
-* {
-    width: 1320px;
-
-}
 
 body {
     overflow-x: hidden;
 }
 
 main {
-    margin: 50px 100px;
+    margin:0 auto;
     max-width: 1320px;
     overflow-x: hidden;
 
