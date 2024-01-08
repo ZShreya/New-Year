@@ -510,6 +510,7 @@ email {
     height: 609px;
     flex-shrink: 0;
     background: #070211;
+    flex-shrink: 0;
     }
 
 .sec1 {
