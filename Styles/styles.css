@@ -1,3 +1,7 @@
+* {
+    margin: auto;
+
+}
 
 body {
     overflow-x: hidden;
@@ -503,11 +507,10 @@ email {
 }
 
 
-.foot {
-    width: 1600px;
-    height: 609px;
-    flex-shrink: 0;
+footer {
+   
     background: #070211;
+    margin: 0;
 }
 
 .sec1 {
@@ -644,5 +647,5 @@ email {
     transform: scale(0.5); 
 }
 .social img {
-    margin-right: 15px;
+    margin-right: 15px; 
 }
