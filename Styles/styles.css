@@ -107,7 +107,7 @@ main {
 
 .left {
     align-items: center;
-    text-align: center;
+   margin-left: 100px;
     margin-top: 50px;
 }
 
@@ -177,6 +177,7 @@ main {
     height: 168px;
     color: #070211;
     padding-top: 100px;
+    padding-left: 400px;
 
 
 }
