@@ -1,10 +1,10 @@
 body{
     overflow-x: hidden;
+    margin: auto;
 }
 main {
     margin: auto;
-    max-width: 1320px;
-    
+    max-width: 1320px;   
 
 }
 .row1 {
