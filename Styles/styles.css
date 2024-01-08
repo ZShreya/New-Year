@@ -106,8 +106,8 @@ main {
 }
 
 .left {
-    
- margin-left: 100px;
+    text-align: left;
+   margin-left: 100px;
     margin-top: 50px;
 }
 
@@ -218,7 +218,7 @@ main {
 }
 
 .row5pic1 {
-    margin-left: -850px;
+    margin-left: 80px;
     border-radius: 250px;
     border: 15px solid #F00;
     width: 400px;
